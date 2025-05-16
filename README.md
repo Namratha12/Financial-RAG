@@ -1,1 +1,2 @@
 # Financial-RAG
+This repository contains an end-to-end retrieval-augmented generation (RAG) pipeline for evaluating financial question-answering using the ConvFinQA dataset. It combines dense retrieval, reranking, and LLM-based reasoning and evaluation.
